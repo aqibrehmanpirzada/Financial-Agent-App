@@ -68,7 +68,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Demo Working
 
-![Demo Screenshot](Screenshot from 2025-03-29 00-24-50.png)
+![Demo Screenshot](demo.png)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
