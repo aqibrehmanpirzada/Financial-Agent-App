@@ -77,9 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to open an issue or contact the project maintainer.
 
----
-
-Feel free to customize this template further to better fit your project's specifics. Adding screenshots, detailed usage examples, or additional sections like "Troubleshooting" can also enhance the `README.md`.
-```
-
-This template provides a comprehensive overview and should help users understand and set up your project easily.
