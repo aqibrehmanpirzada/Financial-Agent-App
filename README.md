@@ -1,6 +1,5 @@
 Certainly! Creating a well-structured `README.md` file is crucial for providing an overview of your project, explaining its purpose, and guiding users on how to set it up and use it. Below is a template for a `README.md` file tailored to your project:
 
-```markdown
 # Financial AI Agent
 
 ## Overview
